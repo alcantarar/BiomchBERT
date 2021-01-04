@@ -20,4 +20,4 @@ BiomchBERT (1.1 GB) and the training data is archived at [Zenodo](https://zenodo
 
 Read about the early attempt to automate the Biomch-L Literature Update [here.](https://ryan-alcantara.com/projects/p98_literature/)
 
-You can support this and my other projects by clicking the ["sponsor"](https/github.com/sponsor/alcantarar) button on the sidebar!
+You can [support](https://github.com/sponsors/alcantarar) this and my other projects by clicking the "sponsor" button on the sidebar!
