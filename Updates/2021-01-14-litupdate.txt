@@ -5,10 +5,10 @@ Literature search terms: biomech* & locomot*
 
 Publications are classified by [URL="https://www.ryan-alcantara.com/projects/p88_BiomchBERT/"]BiomchBERT[/URL], a neural network trained on past Biomch-L Literature Updates. BiomchBERT is managed by [URL="https://www.ryan-alcantara.com"]Ryan Alcantara[/URL], a PhD Candidate at the University of Colorado Boulder. Each publication has a score (out of 100%) reflecting how confident BiomchBERT is that the publication belongs in a particular category (top 2 shown). If something doesn't look right, email ryan.alcantara[at]colorado.edu.
 
-Twitter: [URL="https://www.twitter.com/Ryan_Alcantara_"]@Ryan_Alcantara_[/URL]. 
+Twitter: [URL="https://www.twitter.com/Ryan_Alcantara_"]@Ryan_Alcantara_[/URL].
 
 
-    
+
 [SIZE=16px][B]*BONE*[/B][/SIZE]
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33428699"]A 3D printed in vitro bone model for the assessment of molecular and cellular cues in metastatic neuroblastoma.[/URL][/B] Aveic S, Janßen S, Nasehi R, Seidelmann M, Vogt M, Pantile M, Rütten S, Fischer H, [I]Biomaterials science[/I]. (77.6% BONE; 8.6% CELLULAR/SUBCELLULAR)
 
@@ -24,7 +24,7 @@ Twitter: [URL="https://www.twitter.com/Ryan_Alcantara_"]@Ryan_Alcantara_[/URL].
 
 
 [SIZE=16px][B]*CELLULAR*[/B][/SIZE]
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33440235"]Transformation of SH-SY5Y cell line into neuron-like cells: investigation of electrophysiological and biomechanical changes.[/URL][/B] Şahin M, Öncü G, Yılmaz MA, Özkan D, Saybaşılı H, [I]Neuroscience letters[/I]. (49.6% CELLULAR/SUBCELLULAR; 32.2% NEURAL)
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33440235"]Transformation of SH-SY5Y cell line into neuron-like cells: investigation of electrophysiological and biomechanical changes.[/URL][/B] &#350;ahin M, Öncü G, Y&#305;lmaz MA, Özkan D, Sayba&#351;&#305;l&#305; H, [I]Neuroscience letters[/I]. (49.6% CELLULAR/SUBCELLULAR; 32.2% NEURAL)
 
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33439670"]Persistent growth of microtubules at low density.[/URL][/B] Burakov A, Vorobjev I, Semenova I, Cowan A, Carson J, Wu Y, Rodionov V, [I]Molecular biology of the cell[/I]. (97.1% CELLULAR/SUBCELLULAR; 1.0% TISSUE/BIOMATERIAL)
 
@@ -58,7 +58,7 @@ Twitter: [URL="https://www.twitter.com/Ryan_Alcantara_"]@Ryan_Alcantara_[/URL].
 
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33234680"]Monoterpenes alter TAR1-driven physiology in Drosophila species.[/URL][/B] Finetti L, Tiedemann L, Zhang X, Civolani S, Bernacchia G, Roeder T, [I]The Journal of experimental biology[/I]. (79.0% COMPARATIVE; 8.3% NEURAL)
 
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/32882544"]A combination of six psychoactive pharmaceuticals at environmental concentrations alter the locomotory behavior of clonal marbled crayfish.[/URL][/B] Hossain MS, Kubec J, Guo W, Roje S, Ložek F, Grabicová K, Randák T, Kouba A, Buřič M, [I]The Science of the total environment[/I]. (79.2% COMPARATIVE; 2.5% VETERINARY/AGRICULTURAL)
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/32882544"]A combination of six psychoactive pharmaceuticals at environmental concentrations alter the locomotory behavior of clonal marbled crayfish.[/URL][/B] Hossain MS, Kubec J, Guo W, Roje S, Lo&#382;ek F, Grabicová K, Randák T, Kouba A, Bu&#345;i&#269; M, [I]The Science of the total environment[/I]. (79.2% COMPARATIVE; 2.5% VETERINARY/AGRICULTURAL)
 
 
 [SIZE=16px][B]*DENTAL/ORAL/FACIAL*[/B][/SIZE]
@@ -70,7 +70,7 @@ Twitter: [URL="https://www.twitter.com/Ryan_Alcantara_"]@Ryan_Alcantara_[/URL].
 
 
 [SIZE=16px][B]*ERGONOMICS*[/B][/SIZE]
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33435943"]Physical activity in an air-polluted environment: behavioral, psychological and neuroimaging protocol for a prospective cohort study (Healthy Aging in Industrial Environment study - Program 4).[/URL][/B] Elavsky S, Jandačková V, Knapová L, Vašendová V, Sebera M, Kaštovská B, Blaschová D, Kühnová J, Cimler R, Vilímek D, Bosek T, Koenig J, Jandačka D, [I]BMC public health[/I]. (50.7% ERGONOMICS; 13.4% SPORT/EXERCISE)
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33435943"]Physical activity in an air-polluted environment: behavioral, psychological and neuroimaging protocol for a prospective cohort study (Healthy Aging in Industrial Environment study - Program 4).[/URL][/B] Elavsky S, Janda&#269;ková V, Knapová L, Va&#353;endová V, Sebera M, Ka&#353;tovská B, Blaschová D, Kühnová J, Cimler R, Vilímek D, Bosek T, Koenig J, Janda&#269;ka D, [I]BMC public health[/I]. (50.7% ERGONOMICS; 13.4% SPORT/EXERCISE)
 
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33419101"]A Promising Wearable Solution for the Practical and Accurate Monitoring of Low Back Loading in Manual Material Handling.[/URL][/B] Matijevich ES, Volgyesi P, Zelik KE, [I]Sensors (Basel, Switzerland)[/I]. (98.5% ERGONOMICS; 0.7% METHODS)
 
@@ -118,8 +118,6 @@ Twitter: [URL="https://www.twitter.com/Ryan_Alcantara_"]@Ryan_Alcantara_[/URL].
 
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33435369"]Using Accelerometer Data to Tune the Parameters of an Extended Kalman Filter for Optical Motion Capture: Preliminary Application to Gait Analysis.[/URL][/B] Cuadrado J, Michaud F, Lugrís U, Pérez Soto M, [I]Sensors (Basel, Switzerland)[/I]. (97.7% METHODS; 1.3% GAIT/LOCOMOTION)
 
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33435330"]Comprehensive Hydrodynamic Investigation of Zebrafish Tail Beats in a Microfluidic Device with a Shape Memory Alloy.[/URL][/B] Subendran S, Kang CW, Chen CY, [I]Micromachines[/I]. (85.0% METHODS; 7.1% COMPARATIVE)
-
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33434407"]Implantable Cardiac Kirigami-Inspired Lead-Based Energy Harvester Fabricated by Enhanced Piezoelectric Composite Film.[/URL][/B] Xu Z, Jin C, Cabe A, Escobedo D, Gruslova A, Jenney S, Closson AB, Dong L, Chen Z, Feldman MD, Zhang JXJ, [I]Advanced healthcare materials[/I]. (50.0% METHODS; 15.4% ROBOTICS)
 
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33433300"]Inverse dynamics, joint reaction forces and loading in the musculoskeletal system: guidelines for correct mechanical terms and recommendations for accurate reporting of results.[/URL][/B] Baltzopoulos V, [I]Sports biomechanics[/I]. (64.6% METHODS; 23.7% MODELING)
@@ -154,15 +152,7 @@ Twitter: [URL="https://www.twitter.com/Ryan_Alcantara_"]@Ryan_Alcantara_[/URL].
 
 
 [SIZE=16px][B]*NEURAL*[/B][/SIZE]
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33436805"]A model-based quantification of startle reflex habituation in larval zebrafish.[/URL][/B] Beppi C, Straumann D, Bögli SY, [I]Scientific reports[/I]. (48.9% NEURAL; 20.9% METHODS)
-
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33435613"]Gynura procumbens Root Extract Ameliorates Ischemia-Induced Neuronal Damage in the Hippocampal CA1 Region by Reducing Neuroinflammation.[/URL][/B] Kim W, Jung HY, Yoo DY, Kwon HJ, Hahn KR, Kim DW, Yoon YS, Choi SY, Hwang IK, [I]Nutrients[/I]. (82.9% NEURAL; 3.5% CELLULAR/SUBCELLULAR)
-
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33430215"]Rostrocaudal Distribution of the C-Fos-Immunopositive Spinal Network Defined by Muscle Activity during Locomotion.[/URL][/B] Merkulyeva N, Lyakhovetskii V, Veshchitskii A, Gorskii O, Musienko P, [I]Brain sciences[/I]. (93.6% NEURAL; 2.6% MUSCLE)
-
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33430197"]Comparative Analysis of Neurotoxicity of Six Phthalates in Zebrafish Embryos.[/URL][/B] Tran CM, Do TN, Kim KT, [I]Toxics[/I]. (67.1% NEURAL; 9.1% COMPARATIVE)
-
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/32454162"]Effects of acute and chronic arecoline in adult zebrafish: Anxiolytic-like activity, elevated brain monoamines and the potential role of microglia.[/URL][/B] Serikuly N, Alpyshov ET, Wang D, Wang J, Yang L, Hu G, Yan D, Demin KA, Kolesnikova TO, Galstyan D, Amstislavskaya TG, Babashev AM, Mor MS, Efimova EV, Gainetdinov RR, Strekalova T, de Abreu MS, Song C, Kalueff AV, [I]Progress in neuro-psychopharmacology & biological psychiatry[/I]. (57.0% NEURAL; 15.0% COMPARATIVE)
 
 
 [SIZE=16px][B]*ORTHOPAEDICS (SPINE)*[/B][/SIZE]
@@ -178,7 +168,7 @@ Twitter: [URL="https://www.twitter.com/Ryan_Alcantara_"]@Ryan_Alcantara_[/URL].
 [SIZE=16px][B]*ORTHOPAEDICS (SURGERY)*[/B][/SIZE]
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33423855"]Prevalence of locomotive syndrome in Japanese patients more than 10 years after total hip arthroplasty: A cross-sectional cohort study.[/URL][/B] Ninomiya K, Takahira N, Ikeda T, Suzuki K, Sato R, Hirakawa K, [I]Journal of orthopaedic science : official journal of the Japanese Orthopaedic Association[/I]. (27.2% ORTHOPAEDICS/SURGERY; 25.1% ERGONOMICS)
 
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33423852"]The Biomechanical Effects of Augmentation With Flat Braided Suture on Dorsal Intercarpal Ligament Capsulodesis for Scapholunate Instability.[/URL][/B] Zeiderman MR, Sonoda LA, McNary S, Asselin E, Boutin RD, Bayne CO, Szabo RM, [I]The Journal of hand surgery[/I]. (47.3% TENDON/LIGAMENT; 32.8% ORTHOPAEDICS/SURGERY)
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33423852"]The Biomechanical Effects of Augmentation With Flat Braided Suture on Dorsal Intercarpal Ligament Capsulodesis for Scapholunate Instability.[/URL][/B] Zeiderman MR, Sonoda LA, McNary S, Asselin E, Boutin RD, Bayne CO, Szabo RM, [I]The Journal of hand surgery[/I]. (47.3% TENDON/LIGAMENT; 32.8% ORTHOPAEDICS/SURGERY)
 
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33419412"]Is preoperative glenoid bone mineral density associated with aseptic glenoid implant loosening in anatomic total shoulder arthroplasty?[/URL][/B] Mariaux S, Obrist R, Farron A, Becce F, Terrier A, [I]BMC musculoskeletal disorders[/I]. (58.5% ORTHOPAEDICS/SURGERY; 21.9% JOINT/CARTILAGE)
 
@@ -196,9 +186,9 @@ Twitter: [URL="https://www.twitter.com/Ryan_Alcantara_"]@Ryan_Alcantara_[/URL].
 [SIZE=16px][B]*POSTURE/BALANCE*[/B][/SIZE]
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33426723"]Cutaneous and muscular afferents from the foot and sensory fusion processing: physiology and pathology in neuropathies.[/URL][/B] Felicetti G, Thoumie P, Do MC, Schieppati M, [I]Journal of the peripheral nervous system : JPNS[/I]. (51.8% POSTURE/BALANCE; 22.3% HAND/FINGER/FOOT/TOE)
 
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33411803"]Age-related differences in stair descent balance control: Are women more prone to falls than men?[/URL][/B] Kováčiková Z, Sarvestan J, Zemková E, [I]PloS one[/I]. (87.5% POSTURE/BALANCE; 8.7% GAIT/LOCOMOTION)
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33411803"]Age-related differences in stair descent balance control: Are women more prone to falls than men?[/URL][/B] Ková&#269;iková Z, Sarvestan J, Zemková E, [I]PloS one[/I]. (87.5% POSTURE/BALANCE; 8.7% GAIT/LOCOMOTION)
 
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33407197"]Age-related changes in postural control in older women: transitional tasks in step initiation.[/URL][/B] Michalska J, Kamieniarz A, Sobota G, Stania M, Juras G, Słomka KJ, [I]BMC geriatrics[/I]. (99.2% POSTURE/BALANCE; 0.2% GAIT/LOCOMOTION)
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33407197"]Age-related changes in postural control in older women: transitional tasks in step initiation.[/URL][/B] Michalska J, Kamieniarz A, Sobota G, Stania M, Juras G, S&#322;omka KJ, [I]BMC geriatrics[/I]. (99.2% POSTURE/BALANCE; 0.2% GAIT/LOCOMOTION)
 
 
 [SIZE=16px][B]*REHABILITATION*[/B][/SIZE]
@@ -208,7 +198,7 @@ Twitter: [URL="https://www.twitter.com/Ryan_Alcantara_"]@Ryan_Alcantara_[/URL].
 
 
 [SIZE=16px][B]*SPORT/EXERCISE*[/B][/SIZE]
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33430496"]Ball Impact Position in Recreational Male Padel Players: Implications for Training and Injury Management.[/URL][/B] Sánchez-Alcaraz BJ, Martínez-Gallego R, Llana S, Vučković G, Muñoz D, Courel-Ibáñez J, Sánchez-Pay A, Ramón-Llin J, [I]International journal of environmental research and public health[/I]. (87.8% SPORT/EXERCISE; 8.9% TRAUMA/IMPACT)
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33430496"]Ball Impact Position in Recreational Male Padel Players: Implications for Training and Injury Management.[/URL][/B] Sánchez-Alcaraz BJ, Martínez-Gallego R, Llana S, Vu&#269;kovi&#263; G, Muñoz D, Courel-Ibáñez J, Sánchez-Pay A, Ramón-Llin J, [I]International journal of environmental research and public health[/I]. (87.8% SPORT/EXERCISE; 8.9% TRAUMA/IMPACT)
 
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33428558"]Biomechanical and physical determinants of bowling speed in cricket: a novel approach to systematic review and meta-analysis of correlational data.[/URL][/B] Ramachandran AK, Singh U, Connor JD, Doma K, [I]Sports biomechanics[/I]. (96.6% SPORT/EXERCISE; 0.8% GAIT/LOCOMOTION)
 
@@ -227,8 +217,6 @@ Twitter: [URL="https://www.twitter.com/Ryan_Alcantara_"]@Ryan_Alcantara_[/URL].
 
 [SIZE=16px][B]*TENDON/LIGAMENT*[/B][/SIZE]
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33430913"]A biomechanics study on ligamentous injury in anterior-posterior compression type II pelvic injury.[/URL][/B] Kong J, Chu Y, Zhou C, Sun S, Bao G, Xu Y, Guo X, Shui X, [I]Journal of orthopaedic surgery and research[/I]. (60.4% TENDON/LIGAMENT; 14.6% ORTHOPAEDICS/SURGERY)
-
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33409852"]Liquid Poly-N-acetyl Glucosamine (sNAG) Improves Achilles Tendon Healing in a Rat Model.[/URL][/B] Nuss CA, Huegel J, Finkielsztein S, Soslowsky LJ, [I]Annals of biomedical engineering[/I]. (96.4% TENDON/LIGAMENT; 2.2% TISSUE/BIOMATERIAL)
 
 
 [SIZE=16px][B]*TISSUE/BIOMATERIAL*[/B][/SIZE]
@@ -260,7 +248,6 @@ Twitter: [URL="https://www.twitter.com/Ryan_Alcantara_"]@Ryan_Alcantara_[/URL].
 
 [B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33419485"]Relationship between corneal biomechanical parameters and corneal sublayer thickness measured by Corvis ST and UHR-OCT in keratoconus and normal eyes.[/URL][/B] Li Y, Xu Z, Liu Q, Wang Y, Lin K, Xia J, Chen S, Hu L, [I]Eye and vision (London, England)[/I]. (87.1% VISUAL/VESTIBULAR; 10.4% TISSUE/BIOMATERIAL)
 
-[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33411993"]Looking into the future: Gene and cell therapies for glaucoma.[/URL][/B] Komáromy AM, Koehl KL, Park SA, [I]Veterinary ophthalmology[/I]. (79.0% VISUAL/VESTIBULAR; 9.7% TISSUE/BIOMATERIAL)
-
 
 [SIZE=16px][B]*PICK OF THE WEEK*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/33434490"]Lasso locomotion expands the climbing repertoire of snakes.[/URL][/B] Savidge JA, Seibert TF, Kastner M, Jayne BC, [I]Current biology : CB[/I]. (91.5% COMPARATIVE; 3.3% EVOLUTION/ANTHROPOLOGY)

@@ -1,0 +1,190 @@
+LITERATURE UPDATE
+Mar 18, 2021 - Mar 24, 2021
+
+Literature search terms: biomech* & locomot*
+
+Publications are classified by BiomchBERT, a neural network trained on past Biomch-L Literature Updates. BiomchBERT is managed by Ryan Alcantara, a PhD Candidate at the University of Colorado Boulder. Each publication has a score (out of 100%) reflecting how confident BiomchBERT is that the publication belongs in a particular category (top 2 shown). If something doesn't look right, email ryan.alcantara[at]colorado.edu.
+
+Twitter: @Ryan_Alcantara_.
+
+
+
+*BONE*
+Modeling cortical bone adaptation using strain gradients. Tiwari AK, Goyal A, Prasad J, Proceedings of the Institution of Mechanical Engineers. Part H, Journal of engineering in medicine. (94.6% BONE; 3.8% MODELING)
+
+Compressive strength of iliac bone ECM is not reduced in Osteogenesis Imperfecta and increases with mineralization. Indermaur M, Casari D, Kochetkova T, Peruzzi C, Zimmermann E, Rauch F, Willie B, Michler J, Schwiedrzik J, Zysset P, Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research. (98.0% BONE; 1.0% TISSUE/BIOMATERIAL)
+
+
+*CARDIOVASCULAR/PULMONARY*
+Case Report: Evaluating Biomechanical Risk Factors in Carotid Stenosis by Patient-Specific Fluid-Structural Interaction Biomechanical Analysis. Wang J, Mendieta JB, Paritala PK, Xiang Y, Raffel OC, McGahan T, Lloyd T, Li Z, Cerebrovascular diseases (Basel, Switzerland). (98.6% CARDIOVASCULAR/CARDIOPULMONARY; 0.5% TISSUE/BIOMATERIAL)
+
+Morphometric and Mechanical Analyses of Calcifications and Fibrous Plaque Tissue in Carotid Arteries for Plaque Rupture Risk Assessment. Gijsen FJH, Vis B, Barrett HE, Zadpoor AA, Verhagen HJ, Bos D, van der Steen AFW, Akyildiz AC, IEEE transactions on bio-medical engineering. (93.7% CARDIOVASCULAR/CARDIOPULMONARY; 4.2% TISSUE/BIOMATERIAL)
+
+
+*CELLULAR*
+Rules of contact inhibition of locomotion for cells on suspended nanofibers. Singh J, Pagulayan A, Camley BA, Nain AS, Proceedings of the National Academy of Sciences of the United States of America. (98.3% CELLULAR/SUBCELLULAR; 0.4% MUSCLE)
+
+
+*COMPARATIVE*
+Transcriptomic analysis of the trade-off between endurance and burst-performance in the frog Xenopus allofraseri. Ducret V, Richards AJ, Videlier M, Scalvenzi T, Moore KA, Paszkiewicz K, Bonneaud C, Pollet N, Herrel A, BMC genomics. (89.3% COMPARATIVE; 6.7% EVOLUTION/ANTHROPOLOGY)
+
+Effects of food intake and hydration state on behavioral thermoregulation and locomotor activity in the tropidurid lizard Tropidurus catalanensis. Padilla Perez DJ, de Carvalho JE, Navas CA, The Journal of experimental biology. (92.9% COMPARATIVE; 2.7% VETERINARY/AGRICULTURAL)
+
+Reducing the risk of rostral bending failure in Curculio Linnaeus, 1758. Jansen MA, Niverty S, Chawla N, Franz NM, Acta biomaterialia. (83.4% COMPARATIVE; 7.1% EVOLUTION/ANTHROPOLOGY)
+
+Sublethal agrochemical exposures can alter honey bees' and Neotropical stingless bees' color preferences, respiration rates, and locomotory responses. Almeida CHS, Haddi K, Toledo PFS, Rezende SM, Santana WC, Guedes RNC, Newland PL, Oliveira EE, The Science of the total environment. (82.7% COMPARATIVE; 5.8% EVOLUTION/ANTHROPOLOGY)
+
+Effects on running speed of changes in sexual size dimorphism at maturity on in the cursorial huntsman spider, Delena cancerides (Sparassidae). Hurst JA, Rayor LS, Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology. (92.4% COMPARATIVE; 3.9% GAIT/LOCOMOTION)
+
+Locomotion and kinematics of arachnids. Wolff JO, Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology. (84.7% COMPARATIVE; 9.3% EVOLUTION/ANTHROPOLOGY)
+
+
+*ERGONOMICS*
+Quantifying warfighter performance during a bounding rush (prone-sprinting-prone) maneuver. Davidson SP, Cain SM, Ojeda L, Zaferiou AM, Vitali RV, Stirling LA, Perkins NC, Applied ergonomics. (49.5% ERGONOMICS; 40.0% SPORT/EXERCISE)
+
+Lower Limb Biomechanical Responses During a Standardized Load Carriage Task are Sex Specific. Wills JA, Saxby DJ, Lenton GK, Doyle TLA, Military medicine. (43.4% ERGONOMICS; 40.4% SPORT/EXERCISE)
+
+The Impact of Intrinsic Capacity on Adverse Outcomes in Older Hospitalized Patients: A One-Year Follow-Up Study. Zeng X, Shen S, Xu L, Wang Y, Yang Y, Chen L, Guan H, Zhang J, Chen X, Gerontology. (38.5% ERGONOMICS; 22.1% REHABILITATION)
+
+
+*EVOLUTION/ANTHROPOLOGY*
+Gravettian hand stencils as sign language formatives. Etxepare R, Irurtzun A, Philosophical transactions of the Royal Society of London. Series B, Biological sciences. (85.4% EVOLUTION/ANTHROPOLOGY; 8.8% ERGONOMICS)
+
+The vocal tract as a time machine: inferences about past speech and language from the anatomy of the speech organs. Dediu D, Moisik SR, Baetsen WA, Bosman AM, Waters-Rist AL, Philosophical transactions of the Royal Society of London. Series B, Biological sciences. (87.5% EVOLUTION/ANTHROPOLOGY; 6.5% COMPARATIVE)
+
+The evolution of pelvic limb muscle moment arms in bird-line archosaurs. Allen VR, Kilbourne BM, Hutchinson JR, Science advances. (83.2% EVOLUTION/ANTHROPOLOGY; 12.7% COMPARATIVE)
+
+Biomechanics of the human thumb and the evolution of dexterity. Karakostis FA, Haeufle D, Anastopoulou I, Moraitis K, Hotz G, Tourloukis V, Harvati K, Current biology : CB. (92.3% EVOLUTION/ANTHROPOLOGY; 5.1% ERGONOMICS)
+
+
+*GAIT/LOCOMOTION*
+The impact of reducing the femoral stem length in total hip arthroplasty during gait. Wiik AV, Aqil A, Al-Obaidi B, Brevadt M, Cobb JP, Archives of orthopaedic and trauma surgery. (46.1% GAIT/LOCOMOTION; 18.6% PROSTHETICS/ORTHOTICS)
+
+Changes in gastrocnemii activation at mid-to-late stance markedly affects the intact and anterior cruciate ligament deficient knee biomechanics and stability in gait. Sharifi M, Shirazi-Adl A, The Knee. (45.2% GAIT/LOCOMOTION; 21.2% TENDON/LIGAMENT)
+
+Inter-laboratory comparison of knee biomechanics and muscle activation patterns during gait in patients with knee osteoarthritis. Schrijvers JC, Rutherford D, Richards R, van den Noort JC, van der Esch M, Harlaar J, The Knee. (78.3% GAIT/LOCOMOTION; 6.5% METHODS)
+
+Virtual reality-based assessment of cognitive-locomotor interference in healthy young adults. Deblock-Bellamy A, Lamontagne A, McFadyen BJ, Ouellet MC, Blanchette AK, Journal of neuroengineering and rehabilitation. (90.3% GAIT/LOCOMOTION; 2.3% METHODS)
+
+Prediction of human gait activities using wearable sensors. Halim A, Abdellatif A, Awad MI, Atia MRA, Proceedings of the Institution of Mechanical Engineers. Part H, Journal of engineering in medicine. (47.9% METHODS; 44.6% GAIT/LOCOMOTION)
+
+Estimating Lower Limb Kinematics Using a Reduced Wearable Sensor Count. Sy L, Raitor M, Rosario MD, Khamis H, Kark L, Lovell NH, Redmond SJ, IEEE transactions on bio-medical engineering. (75.3% METHODS; 13.9% GAIT/LOCOMOTION)
+
+*HAND/FINGER/FOOT/TOE*
+Biomechanical Evaluation of Dynamic Splint Based on Pulley Rotation Design for Management of Hand Spasticity. Yang YS, Emzain ZF, Huang SC, IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society. (56.3% HAND/FINGER/FOOT/TOE; 19.0% ERGONOMICS)
+
+
+*JOINT/CARTILAGE*
+Association of machine learning based predictions of medial knee contact force with cartilage loss over 2.5 years in knee osteoarthritis. Brisson NM, Gatti AA, Damm P, Duda GN, Maly MR, Arthritis & rheumatology (Hoboken, N.J.). (89.1% JOINT/CARTILAGE; 3.7% METHODS)
+
+Influence of Patella thickness on Patellofemoral pressure in total knee Arthroplasty. Tanikawa H, Tada M, Ogawa R, Harato K, Niki Y, Kobayashi S, Nagura T, BMC musculoskeletal disorders. (55.2% JOINT/CARTILAGE; 34.6% ORTHOPAEDICS/SURGERY)
+
+Ectopic models recapitulating morphological and functional features of articular cartilage. Cai X, Daniels O, Cucchiarini M, Madry H, Annals of anatomy = Anatomischer Anzeiger : official organ of the Anatomische Gesellschaft. (93.7% JOINT/CARTILAGE; 4.1% TISSUE/BIOMATERIAL)
+
+Stabilization of Damaged Articular Cartilage with Hydrogel-Mediated Reinforcement and Sealing. Patel JM, Loebel C, Saleh KS, Wise BC, Bonnevie ED, Miller LM, Carey JL, Burdick JA, Mauck RL, Advanced healthcare materials. (89.4% JOINT/CARTILAGE; 8.8% TISSUE/BIOMATERIAL)
+
+
+*METHODS*
+Deep learning for biological age estimation. Ashiqur Rahman S, Giacobbi P, Pyles L, Mullett C, Doretto G, Adjeroh DA, Briefings in bioinformatics. (80.7% METHODS; 6.5% MODELING)
+
+
+*MODELING*
+Musculoskeletal modelling of the Nile crocodile (Crocodylus niloticus) hindlimb: Effects of limb posture on leverage during terrestrial locomotion. Wiseman ALA, Bishop PJ, Demuth OE, Cuff AR, Michel KB, Hutchinson JR, Journal of anatomy. (70.8% MODELING; 19.8% COMPARATIVE)
+
+The elastoplastic numerical model and verification by macroindentation experiment of femoral head. Wang J, Yi C, Wang S, Wang L, Jia H, Chen B, Huan Y, Computer methods in biomechanics and biomedical engineering. (86.5% MODELING; 4.8% BONE)
+
+Impact of brain shift on neural pathways in deep brain stimulation: a preliminary analysis via multi-physics finite element models. Luo M, Narasimhan S, Larson PS, Martin AJ, Konrad PE, Miga MI, Journal of neural engineering. (60.2% MODELING; 19.2% NEURAL)
+
+
+*MUSCLE*
+Gracilis and semitendinosus moment arm decreased by fascial tissue release after hamstring harvesting surgery: a key parameter to understand the peak torque obtained to a shallow angle of the knee. Snoeck O, Beyer B, Rooze M, Salvia P, Coupier J, Bajou H, Feipel V, Surgical and radiologic anatomy : SRA. (75.7% MUSCLE; 15.9% TENDON/LIGAMENT)
+
+The biomechanical role of the lacertus fibrosus of the biceps brachii Muscle. Snoeck O, Coupier J, Beyer B, Salvia P, Lefèvre P, Van Sint Jan S, Rooze M, Feipel V, Surgical and radiologic anatomy : SRA. (98.9% MUSCLE; 0.2% NEURAL)
+
+Medial Gastrocnemius Muscle Fascicles Shorten Throughout Stance During Sprint Acceleration. Werkhausen A, Willwacher S, Albracht K, Scandinavian journal of medicine & science in sports. (57.1% MUSCLE; 27.5% SPORT/EXERCISE)
+
+
+*NEURAL*
+Learning and transfer of perceptual-motor skill: Relationship with gaze and behavioral exploration. Hacques G, Komar J, Seifert L, Attention, perception & psychophysics. (59.0% NEURAL; 27.0% GAIT/LOCOMOTION)
+
+Lower visual field preference for the visuomotor control of limb movements in the human dorsomedial parietal cortex. Maltempo T, Pitzalis S, Bellagamba M, Di Marco S, Fattori P, Galati G, Galletti C, Sulpizio V, Brain structure & function. (68.7% NEURAL; 26.6% VISUAL/VESTIBULAR)
+
+
+*ORTHOPAEDICS (SPINE)*
+Resumption of sport after spinal fusion for adolescent idiopathic scoliosis: a review of the current literature. Barile F, Ruffilli A, Manzetti M, Fiore M, Panciera A, Viroli G, Faldini C, Spine deformity. (50.2% ORTHOPAEDICS/SPINE; 22.3% ERGONOMICS)
+
+Trailblazing: The historical development of the Posterior Lumbar Interbody Fusion (PLIF). Fenton-White HA, The spine journal : official journal of the North American Spine Society. (94.8% ORTHOPAEDICS/SPINE; 3.7% ORTHOPAEDICS/SURGERY)
+
+Biomechanical analysis of the number of implants for the immediate sacroiliac joint fixation. Dubé-Cyr R, Aubin CÉ, Villemure I, Arnoux PJ, Spine deformity. (90.7% ORTHOPAEDICS/SPINE; 6.4% ORTHOPAEDICS/SURGERY)
+
+Surgical challenges in posterior cervicothoracic junction instrumentation. Balestrino A, Gondar R, Jannelli G, Zona G, Tessitore E, Neurosurgical review. (96.9% ORTHOPAEDICS/SPINE; 2.5% ORTHOPAEDICS/SURGERY)
+
+
+*ORTHOPAEDICS (SURGERY)*
+The suture of transferred tendons: a biomechanical study of a tubular braid with grasping action vs. Pulvertaft suture. Peeters I, Martens A, De Wilde L, The Journal of hand surgery, European volume. (54.7% TENDON/LIGAMENT; 36.9% ORTHOPAEDICS/SURGERY)
+
+Biomechanics of a cemented short stem: a comparative in vitro study regarding primary stability and maximum fracture load. Freitag T, Kutzner KP, Bieger R, Reichel H, Ignatius A, Dürselen L, Archives of orthopaedic and trauma surgery. (67.4% ORTHOPAEDICS/SURGERY; 24.3% PROSTHETICS/ORTHOTICS)
+
+Tibial cutting guide (resector) holding pins position and subsequent risks of periprosthetic fracture in unicompartmental knee arthroplasty: a finite element analysis study. Chui EC, Lau LC, Kwok CK, Ng JP, Hung YW, Yung PS, Fan JC, Journal of orthopaedic surgery and research. (58.6% ORTHOPAEDICS/SURGERY; 18.5% PROSTHETICS/ORTHOTICS)
+
+Use of Suture Tapes Versus Conventional Sutures for Arthroscopic Rotator Cuff Repairs: A Systematic Review and Meta-analysis. Boksh K, Haque A, Sharma A, Divall P, Singh H, The American journal of sports medicine. (90.7% ORTHOPAEDICS/SURGERY; 3.8% TENDON/LIGAMENT)
+
+
+*POSTURE/BALANCE*
+Identifying human postural dynamics and control from unperturbed balance. Lee J, Zhang K, Hogan N, Journal of neuroengineering and rehabilitation. (99.8% POSTURE/BALANCE; 0.1% VISUAL/VESTIBULAR)
+
+
+*PROSTHETICS/ORTHOTICS*
+How much change in pelvic sagittal tilt can result in hip dislocation due to prosthetic impingement? A computer simulation study. Pour AE, Schwarzkopf R, Patel KPK, Anjaria MP, Lazennec JY, Dorr LD, Journal of orthopaedic research : official publication of the Orthopaedic Research Society. (55.5% PROSTHETICS/ORTHOTICS; 28.6% MODELING)
+
+
+*REHABILITATION*
+Fluid Cognitive Abilities Are Important for Learning and Retention of a New, Explicitly Learned Walking Pattern in Individuals After Stroke. French MA, Cohen ML, Pohlig RT, Reisman DS, Neurorehabilitation and neural repair. (44.7% REHABILITATION; 25.7% GAIT/LOCOMOTION)
+
+Prelude to the special issue on novel neurocircuit, cellular and molecular targets for developing functional rehabilitation therapies of neurotrauma. Teng YD, Zafonte RD, Experimental neurology. (59.9% REHABILITATION; 32.9% ERGONOMICS)
+
+
+*SPORT/EXERCISE*
+Engagement in different sport disciplines during university years and risk of locomotive syndrome in older age: J-Fit+ Study. Shen S, Suzuki K, Kohmura Y, Fuku N, Someya Y, Naito H, Environmental health and preventive medicine. (95.9% SPORT/EXERCISE; 1.5% ERGONOMICS)
+
+A lateral ankle sprain during a lateral backward step in badminton: A case report of a televised injury incident. Fong DTP, Mok KM, Thompson IM, Wang HY, Shan W, King MA, Journal of sport and health science. (72.9% SPORT/EXERCISE; 8.2% TENDON/LIGAMENT)
+
+A Comparison of the Fundamental Motor Skills of Preschool-Aged Children With and Without Visual Impairments. Brian A, Miedema ST, Johnson JL, Chica I, Adapted physical activity quarterly : APAQ. (20.9% SPORT/EXERCISE; 19.0% REHABILITATION)
+
+Influence of Cognitive Performance on Musculoskeletal Injury Risk: A Systematic Review. Avedesian JM, Forbes W, Covassin T, Dufek JS, The American journal of sports medicine. (97.0% SPORT/EXERCISE; 0.9% TENDON/LIGAMENT)
+
+Shadow pitching deviates ball release position: kinematic analysis in high school baseball pitchers. Miyazaki S, Yamako G, Totoribe K, Sekimoto T, Kadowaki Y, Tsuruta K, Chosa E, BMC sports science, medicine & rehabilitation. (98.2% SPORT/EXERCISE; 0.4% ERGONOMICS)
+
+Effective recognition of human lower limb jump locomotion phases based on multi-sensor information fusion and machine learning. Lu Y, Wang H, Hu F, Zhou B, Xi H, Medical & biological engineering & computing. (58.8% METHODS; 25.6% GAIT/LOCOMOTION)
+
+*TENDON/LIGAMENT*
+Young athletes after ACL reconstruction with asymmetric quadriceps strength at the time of return-to-sport clearance demonstrate drop-landing asymmetries two years later. Ithurburn MP, Thomas S, Paterno MV, Schmitt LC, The Knee. (47.5% TENDON/LIGAMENT; 23.9% SPORT/EXERCISE)
+
+Clinical Outcomes of a Novel Ulnar Collateral Ligament Reconstruction Hybrid Technique With Ulnar-Sided Suspensory. CarlLee TL, Rao AJ, Scarola GT, Yeatts NC, Trofa DP, Hamid N, Schiffern SC, Connor PM, Flesichli JE, Saltzman BM, Journal of shoulder and elbow surgery. (75.3% TENDON/LIGAMENT; 19.6% ORTHOPAEDICS/SURGERY)
+
+Forearm Flexor Injury is Associated with Medial UCL Injury in Throwing Athletes. Zaremski JL, Pazik M, Dean CW, Vijayaraghavan N, Fethiere NP, Farmer KW, Horodyski M, PM & R : the journal of injury, function, and rehabilitation. (63.3% TENDON/LIGAMENT; 14.8% SPORT/EXERCISE)
+
+Landing Biomechanics Deficits in Anterior Cruciate Ligament Reconstruction Patients Can be Assessed in a Non-laboratory Setting. Peebles AT, Miller TK, Queen RM, Journal of orthopaedic research : official publication of the Orthopaedic Research Society. (46.7% TENDON/LIGAMENT; 17.0% SPORT/EXERCISE)
+
+
+*TISSUE/BIOMATERIAL*
+A New Experimental Model To Measure The Tension Generated By Cutaneous Flaps. Russo F, Sánchez Murillo JM, Experimental dermatology. (60.9% TISSUE/BIOMATERIAL; 11.3% METHODS)
+
+Liver bioengineering: Recent trends/advances in decellularization and cell sheet technologies towards translation into the clinic. Asadi M, Khalili M, Lotfi H, Moghaddam SV, Zarghami N, André H, Alizadeh E, Life sciences. (94.4% TISSUE/BIOMATERIAL; 2.2% CELLULAR/SUBCELLULAR)
+
+
+*VETERINARY/AGRICULTURAL*
+Working for food is related to range use in free-range broiler chickens. Ferreira VHB, Simoni A, Germain K, Leterrier C, Lansade L, Collin A, Mignon-Grasteau S, Le Bihan-Duval E, Guettier E, Leruste H, Calandreau L, Guesdon V, Scientific reports. (67.5% VETERINARY/AGRICULTURAL; 29.5% COMPARATIVE)
+
+
+*VISUAL/VESTIBULAR*
+Rate of central corneal thickness changes in primary angle closure eyes: long-term follow-up results. Park HM, Choi J, Lee WJ, Uhm KB, BMC ophthalmology. (93.2% VISUAL/VESTIBULAR; 5.5% TISSUE/BIOMATERIAL)
+
+Reliability analysis of successive Corneal Visualization Scheimpflug Technology measurements in different keratoconus stages. Flockerzi E, Häfner L, Xanthopoulou K, Daas L, Munteanu C, Langenbucher A, Seitz B, Acta ophthalmologica. (85.4% VISUAL/VESTIBULAR; 6.4% METHODS)
+
+Comparison of the morphological and biomechanical characteristics of keratoconus, forme fruste keratoconus, and normal corneas. Guo LL, Tian L, Cao K, Li YX, Li N, Yang WQ, Jie Y, Seminars in ophthalmology. (87.4% VISUAL/VESTIBULAR; 9.6% TISSUE/BIOMATERIAL)
+
+
+*PICK OF THE WEEK*
+Working for food is related to range use in free-range broiler chickens. Ferreira VHB, Simoni A, Germain K, Leterrier C, Lansade L, Collin A, Mignon-Grasteau S, Le Bihan-Duval E, Guettier E, Leruste H, Calandreau L, Guesdon V, Scientific reports. (67.5% VETERINARY/AGRICULTURAL; 29.5% COMPARATIVE)
+
