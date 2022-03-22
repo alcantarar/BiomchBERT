@@ -6,7 +6,7 @@
 [Read about how BiomchBERT is helping the Biomechanics community!](https://www.ryan-alcantara.com/projects/p88_BiomchBERT/)
 Source code for BiomchBERT can be found
 [here](Construct_Models/BERT_lit_up.ipynb). Weekly Literature Updates are posted [here](https://biomch-l.isbweb.org/forum/biomch-l-forums/literature-update).
-BiomchBERT (1.1 GB) and the training data is archived at [Zenodo](https://zenodo.org/record/4356055) due to GitHub file size limitations. *Will be updated 1/13/2021*
+BiomchBERT (1.1 GB) and the training data is archived at [Zenodo](https://zenodo.org/record/4356055) due to GitHub file size limitations.
 
 ## Major Dependencies
 * [BERT trained on MEDLINE/PubMed](https://tfhub.dev/google/experts/bert/pubmed/2)
